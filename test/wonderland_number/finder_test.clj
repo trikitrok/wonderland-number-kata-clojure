@@ -1,4 +1,4 @@
-(ns wonderland-number.core-test
+(ns wonderland-number.finder-test
   (:require [midje.sweet :refer :all]
             [wonderland-number.finder :as finder]))
 
